@@ -1,0 +1,22 @@
+# Reference environment: Python 3.12.4
+# numpy, pandas and scikit-learn match the environment used to produce the notebook outputs.
+# Other versions may give slightly different numbers.
+
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scipy>=1.11,<2
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Model serialization
+joblib==1.4.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.29.4
